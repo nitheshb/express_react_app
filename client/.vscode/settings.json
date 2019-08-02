@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "npm prune",
+    "appService.defaultWebAppToDeploy": "/subscriptions/91cfefc7-a3e5-46ed-b22a-6eb81602a61a/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/my-admin-app",
+    "appService.deploySubpath": ""
+}
